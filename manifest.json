@@ -1,0 +1,42 @@
+[
+    {
+        "key": "setGuestRecord",
+        "arr": []
+    },
+    {
+        "key": "signInStatus",
+        "arr": []
+    },
+    {
+        "key": "shuaxinWxApp",
+        "arr": []
+    },
+    {
+        "key": "codeisauth",
+        "arr": []
+    },
+    {
+        "key": "wxAppLogin",
+        "arr": []
+    },
+    {
+        "key": "wxappAuth",
+        "arr": []
+    },
+    {
+        "key": "usersBindMobile",
+        "arr": []
+    },
+    {
+        "key": "updateAdviser",
+        "arr": []
+    },
+    {
+        "key": "adviserBase",
+        "arr": []
+    },
+    {
+        "key": "adviserCard",
+        "arr": []
+    }
+]
